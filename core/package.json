@@ -22,7 +22,7 @@
 		"babel-core": "6.26.3",
 		"babel-preset-env": "1.7.0",
 		"body-parser": "1.18.2",
-		"bootstrap": "4.1.0",
+		"bootstrap": ">=4.1.2",
 		"browser-sync": "2.23.7",
 		"clean-css": "4.1.11",
 		"colors": "1.2.1",
@@ -98,16 +98,16 @@
 		"svgo": "1.0.5",
 		"wrench": "1.5.9"
 	},
-	"description": "by Bao Nguyen - 0969689893 - baonguyenyam.github.io ",
+	"description": "quochieu4497.github.io",
 	"directories": {
 		"lib": "lib"
 	},
 	"engines": {
 		"node": ">=0.12.0"
 	},
-	"author": "BaoNguyen <baonguyenyam@gmail.com> (https://baonguyenyam.github.io/)",
-	"homepage": "https://baonguyenyam.github.io/blog",
+	"author": "quochieu4497 <quochieu4497@gmail.com> (https://quochieu4497.github.io/)",
+	"homepage": "https://quochieu4497.github.io",
 	"license": "ISC",
-	"name": "baonguyenyam-builder",
+	"name": "quochieu4497",
 	"version": "1.0.0"
 }
